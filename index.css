@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text&family=Prompt:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text&family=Prompt:wght@300&display=swap');
+:root {
+    background-color: rgba(230, 179, 221, 0.541);
+    font-family: 'Golos Text', sans-serif;
+    font-family: 'Prompt', sans-serif;
+}
+h3{
+    text-align: center;
+    color: #48154d;
+    margin-top: 5%;
+}
+h1 {
+    color: #48154d;
+    margin: -2%;
+    margin-bottom: 5%;
+    font-family: 'Prompt', sans-serif;
+    font-size: 5rem;
+    text-align: center;
+    background-image: linear-gradient(to bottom, #9843a0, #ecc7f3);
+}
+.buttons {
+    background-color: rgba(230, 179, 221, 0.541);
+    border-color: #9843a0;
+    border-radius: 30px;
+}
